@@ -1,1 +1,1 @@
-# studyBuddy
+Final project anticipation with studyBuddy!
